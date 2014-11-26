@@ -1,0 +1,18 @@
+{
+    "name": "jweiland/infinitescrolling",
+    "description": "TYPO3 Extension to replace the page-browser in list view of plugins with infinite scrolling",
+    "type": "typo3-cms-extension",
+    "keywords": [
+        "TYPO3 CMS",
+        "infinite",
+        "scrolling",
+        "ias",
+        "jquery"
+    ],
+    "homepage": "https://jweiland.net/typo3/extension-showcase.html",
+    "license": "GPL-2.0+",
+    "version": "1.0.2",
+    "support": {
+        "email": "extensions@jweiland.net"
+    }
+}
